@@ -1,7 +1,8 @@
 # Federated Split Learning With Model Pruning and Gradient Quantization in Wireless Networks (24 IEEE TVT)
 
 Detailed convergence analysis of our propose lightweight federated split learning scheme.
-[IEEE link(https://ieeexplore.ieee.org/document/10791300)], [arXiv link(https://arxiv.org/abs/2412.06414)].
+
+[IEEE link](https://ieeexplore.ieee.org/document/10791300), [arXiv link](https://arxiv.org/abs/2412.06414).
 
 If you find our work helpful, please consider citing:
 
