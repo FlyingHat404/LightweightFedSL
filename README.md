@@ -2,12 +2,12 @@
 
 Detailed convergence analysis of our propose lightweight federated split learning scheme.
 
-[IEEE link](https://ieeexplore.ieee.org/document/10791300), [arXiv link](https://arxiv.org/abs/2412.06414).
+[IEEE Link](https://ieeexplore.ieee.org/document/10791300); [arXiv Link](https://arxiv.org/abs/2412.06414).
 
 If you find our work helpful, please consider citing:
 
 ```bibtex
-@ARTICLE{junhe2024fedsl,
+@ARTICLE{junhe2025fedsl,
   author={Zhang, Junhe and Ni, Wanli and Wang, Dongyu},
   journal={IEEE Transactions on Vehicular Technology}, 
   title={Federated Split Learning With Model Pruning and Gradient Quantization in Wireless Networks}, 
