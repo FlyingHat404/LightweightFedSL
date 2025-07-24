@@ -15,6 +15,5 @@ If you find our work helpful, please consider citing:
   volume={74},
   number={4},
   pages={6850-6855},
-  keywords={Training;Computational modeling;Servers;Convergence;Wireless networks;Quantization (signal);Load modeling;Vectors;Propagation losses;Data models;Federated split learning;model pruning;gradient quantization;dropout;convergence analysis},
   doi={10.1109/TVT.2024.3515083}}
 ```
